@@ -3,8 +3,6 @@
 This repository includes a set of assets that are used in the above course, which dives
 deeper into the various problems and solutions when building a RAG system in enterprise environments.
 
-The course is available on [edX](https://www.edx.org/learn/computer-science/pragmatic-ai-labs-advanced-rag).
-
 ## Simple RAG Flow
 
 ![Naive RAG](images/Naiive_RAG.png)
